@@ -7,7 +7,7 @@ def display_menu():
     print("4. Search for a contact")
     print("5. Display all contacts")
     print("6. Export contacts to a text file")
-    print("7. Import contacts from a text file *BONUS*")
+    print("7. Import contacts from a text file")
     print("8. Quit")
 contacts = {
     "unique_id": {
